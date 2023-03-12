@@ -24,3 +24,11 @@ function multiply(a, b){
 }
 ```
 
+## My project:
+### [Course Project](https://github.com/blazzeo/course-project) <sub>still in development</sub>
+### [Preview](https://blazzeo.github.io/course-project/)
+
+## Education:
+### BSTU (1 course)
+
+## English - B2-level
