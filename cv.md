@@ -1,7 +1,5 @@
 # Ivan Braganets
 
-![image](https://sun9-72.userapi.com/impg/AzMEhY0SI5HBLZL5AdP_vkhmb3kfRuLcs-Qdug/FNoa6AsnSE4.jpg?size=1000x1000&quality=95&sign=63f95c58169d17e535fcee110032f992&type=album)
-
 ## [VK](https://m.vk.com/blazzeo), [Telegram](t.me/blazzeo), Discord: `blazzeo#3461` (rs-school: blazze (@blazzeo))
 
 ## About me:
